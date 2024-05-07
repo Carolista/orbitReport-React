@@ -1,6 +1,6 @@
 # Graded Assignment 6: Orbit Report
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).  For more on working with **Create React App** see the [Create-React-App-README](https://github.com/LaunchCodeEducation/orbitReport-React/blob/main/Create-React-App-README.md) file in this repo.
+Using Node 18.16.10
 
 ## Getting Started
 1. Fork and [clone this repo from GitHub](https://plainenglish.io/blog/how-to-clone-an-app-from-github-446541a0302d)
